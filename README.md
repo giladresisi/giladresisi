@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=giladresisi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&rank=S,AAA,AA,A" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
