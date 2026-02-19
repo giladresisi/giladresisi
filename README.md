@@ -46,13 +46,15 @@ About Me
 <h3>About Me</h3>
 <details>
   <summary>
-    <a href="https://gilad.click/yuv-ai-hope">
-Beyond the Hype: Turning AI Code Generation into Enterprise-Ready Software
-    </a>
-    <span>, September 15, 2025, YUV AI</span>
+    <b>Why work with me?</b>
   </summary>
   <div>
-
+    - I take full end-to-end ownership on my tasks & responsibilities, beyond expectations
+    - I'm biased for action, never delaying 2-way-door decisions, updating on the fly
+    - I communicate, verbally and by documentation. Everything must always clear
+    - I always start with why, both when assigned and assigning a task, all must be justified
+    - I'm a quick & independent learner. I dive deep and reach quick results in unfamiliar topics
+    - I'm a team player. I take collaboration, empathy & vibe as key for long-term success
   </div>
 </details>
 
