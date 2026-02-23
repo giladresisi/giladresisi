@@ -25,9 +25,9 @@ Contact
 <!--
 Highlights
 -->
-- My experience: 16yrs of building production SW, both large-scale (at AWS) and SaaS (at a startup I founded)
-- I'm currently working on: An agentic RAG app, enhancing my Claude Code setup
-- I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK
+- My experience: 16yrs of building production SW, both large-scale (as SDE @ AWS) and SaaS (as founder @ Payroll-AI)
+- I'm currently working on: An [agentic RAG](https://github.com/giladresisi/agentic-rag) app infrastructure, enhancing my Claude Code [setup](https://github.com/giladresisi/global_ai_env)
+- I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK, etc.
 
 ---
 
