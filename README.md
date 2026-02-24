@@ -107,11 +107,13 @@ About Me
     <p>- AI can do your work if you teach it, but it's your work and so is the responsibility to lead, direct and validate the AI doing it</p>
   </div>
 </details>
-
+<!--
 ---
-
+-->
 <!--
 Stats
 -->
+<!--
 <h3>Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giladresisi&label=Profile%20views&color=0e75b6&style=flat-square" alt="giladresisi" /> </p>
+-->
