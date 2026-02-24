@@ -25,9 +25,9 @@ Contact
 <!--
 Highlights
 -->
-- My experience: 16yrs of building production SW, both large-scale (as SDE @ AWS) and SaaS (as founder @ Payroll-AI)
-- I'm currently working on: An [agentic RAG](https://github.com/giladresisi/agentic-rag) app infrastructure, enhancing my Claude Code [setup](https://github.com/giladresisi/global_ai_env)
-- I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK, etc.
+- ⚡ My experience: 16yrs of building production SW, both large-scale (as SDE @ AWS) and SaaS (as founder @ Payroll-AI)
+- ⚒️ I'm currently working on: An [agentic RAG](https://github.com/giladresisi/agentic-rag) app infrastructure, enhancing my Claude Code [setup](https://github.com/giladresisi/global_ai_env)
+- 📖 I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK, etc.
 
 ---
 
@@ -46,22 +46,22 @@ About Me
 <h3>About Me</h3>
 <details>
   <summary>
-    <b>Why work with me?</b>
+    <b>🤝 Why work with me?</b>
   </summary>
   <div>
-    <p>- I take full end-to-end ownership on my tasks & responsibilities, beyond expectations</p>
-    <p>- I'm biased for action, never delaying 2-way-door decisions, updating on the fly</p>
-    <p>- I communicate, verbally and by documentation. Everything must always be clear</p>
-    <p>- I always start with why, both when assigned and assigning a task, all must be justified</p>
-    <p>- I'm a quick & independent learner. I dive deep and reach quick results in unfamiliar topics</p>
-    <p>- I'm a team player. I take collaboration, empathy & vibe as key for long-term success</p>
-    <p>- I'm passionate about SW, AI, problem solving, learning, customer satisfaction, challenges</p>
+    <p>- 🙋 I take full end-to-end ownership on my tasks & responsibilities, beyond expectations</p>
+    <p>- ▶️ I'm biased for action, never delaying 2-way-door decisions, updating on the fly</p>
+    <p>- 💬 I communicate, directly and by async documentation. Everything must always be clear</p>
+    <p>- ❓ I always start with why, both when assigned and assigning a task, all must be justified</p>
+    <p>- 👨‍🎓 I'm a quick & independent learner. I dive deep and reach quick results in unfamiliar topics</p>
+    <p>- 👥 I'm a team player. I take collaboration, empathy & vibe as key for long-term success</p>
+    <p>- 🤩 I'm passionate about SW, AI, problem solving, learning, customer satisfaction, challenges</p>
   </div>
 </details>
 
 <details>
   <summary>
-    <b>What am I looking for?</b>
+    <b>🔭 What am I looking for?</b>
   </summary>
   <div>
     <p>- A fulltime fully-remote role as an AI fullstack SW developer, integrating AI into the product and SDLC</p>
@@ -72,9 +72,10 @@ About Me
 
 <details>
   <summary>
-    <b>What's my career timeline?</b>
+    <b>🕐 What's my career timeline?</b>
   </summary>
   <div>
+    <p>- 2009 - 2014: Technion - studying for B.Sc in Computer Science</p>
     <p>- 2010 - 2019: Rafael - building realtime SW for advanced defence systems (mission-critical, disposable HW, no 2nd chance...)</p>
     <p>- 2019 - 2023: AWS - building realtime SW for EC2 Networking devices (world-scale traffic, hard constraints, complex SLDC)</p>
     <p>- 2023 - 2024: 1-year break - relocating to Thailand with my wife & 3 daughters</p>
@@ -85,7 +86,7 @@ About Me
 
 <details>
   <summary>
-    <b>Achievements</b>
+    <b>🏆 Achievements</b>
   </summary>
   <div>
     <p>- I'm an ex. AWS SDE, built and deployed prod. SW at the heart of EC2 Networking, world-scale traffic</p>
@@ -96,13 +97,14 @@ About Me
 
 <details>
   <summary>
-    <b>What have I learned?</b>
+    <b>💡 What have I learned?</b>
   </summary>
   <div>
-    <p>- Agile & growth mindset are a must and always will be, and so are continuous learning and enthusiasm</p>
-    <p>- Usually, the 'how' can be solved, the 'what' is a variation of something, but the 'why' is what's important, start with 'why'</p>
-    <p>- SW, like many other things, is a means to a business or personal goal, the goal matters more</p>
-    <p>- It's important? Prioritize. It's complex? Document. It's repeating? Automate. It's relevant for others? share. Can some AI do it? Let it.</p>
+    <p>- Agile & growth mindset are a must and always will be, and so are continuous learning and enthusiasm, AI won't have these soon</p>
+    <p>- Usually, the 'how' can be solved, the 'what' is just a variation of something, but the 'why' is what's important, start with 'why'</p>
+    <p>- SW, like many other things, is a means to a business or personal goal, the goal matters more than whatever SW you build for it</p>
+    <p>- It's important? Prioritize. It's complex? Document. It's repeating? Automate. It's relevant for others? share. Can AI do it? Let it.</p>
+    <p>- AI can do your work if you teach it, but it's your work and so is the responsibility to lead, direct and validate the AI doing it</p>
   </div>
 </details>
 
