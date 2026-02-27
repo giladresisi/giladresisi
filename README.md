@@ -26,7 +26,7 @@ Contact
 Highlights
 -->
 - ⚡ My experience: 16yrs of building production SW, both large-scale (as SDE @ AWS) and SaaS (as founder @ Payroll-AI)
-- ⚒️ I'm currently working on: An [agentic RAG](https://github.com/giladresisi/agentic-rag) app infrastructure, enhancing my Claude Code [setup](https://github.com/giladresisi/global_ai_env)
+- ⚒️ I'm currently working on: An [agentic RAG](https://github.com/giladresisi/ir-copilot) app, enhancing my Claude Code [setup](https://github.com/giladresisi/ai-dev-env)
 - 📖 I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK, etc.
 
 ---
@@ -44,6 +44,7 @@ Tech Stack
 About Me
 -->
 <h3>About Me</h3>
+
 <details>
   <summary>
     <b>🤝 Why work with me?</b>
@@ -103,10 +104,27 @@ About Me
     <p>- Agile & growth mindset are a must and always will be, and so are continuous learning and enthusiasm, AI won't have these soon</p>
     <p>- Usually, the 'how' can be solved, the 'what' is just a variation of something, but the 'why' is what's important, start with 'why'</p>
     <p>- SW, like many other things, is a means to a business or personal goal, the goal matters more than whatever SW you build for it</p>
-    <p>- It's important? Prioritize. It's complex? Document. It's repeating? Automate. It's relevant for others? share. Can AI do it? Let it.</p>
+    <p>- It's important? Prioritize. It's complex? Document. It's repeating? Automate. It's relevant for others? share. Can AI do it? Let it</p>
     <p>- AI can do your work if you teach it, but it's your work and so is the responsibility to lead, direct and validate the AI doing it</p>
   </div>
 </details>
+
+---
+
+<!--
+Featured Projects
+-->
+<h3>Featured Projects</h3>
+
+<details>
+  <summary>
+    <b><span>Agentic RAG app for SW Incidents Responses - </span><a href=https://github.com/giladresisi/ir-copilot>Link</a><span> - RAGAS Faithfullness 0.950</span></b>
+  </summary>
+  <div>
+    <span>Built and </span><a href=https://frontend-eosin-six-81.vercel.app/>deployed</a><span> an agentic RAG system using TypeScript and FastAPI for retrieving info from SW incidents reports and recent deployments with streamed responses. It utilizes both local models (LMStudio) and cloud-based (OpenAI, OpenRouter) that use multiple tools - including web-search (tavily), text-to-sql, subagent delegation and of-course chunks retrieval with hybrid search (pgvector + keyword), metadata filtering and reranking (local / cohere). The system includes out-of-the-box observability (LangSmith) and evaluations (classic RAGAS, tool selection, chat quality) and reached 0.950 faithfullness in RAGAS score</span>
+  </div>
+</details>
+
 <!--
 ---
 -->
