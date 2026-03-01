@@ -103,7 +103,7 @@ About Me
   </summary>
   <div>
     <p>- Agile & growth mindset are a must and always will be, and so are continuous learning and enthusiasm, AI won't have these soon</p>
-    <p>- Usually, the 'how' can be solved, the 'what' is just a variation of something, but the 'why' is what's important, start with 'why'</p>
+    <p>- Usually, the 'how' can be solved, the 'what' is just a variation of something known, but the 'why' is what's important, start with 'why'</p>
     <p>- SW, like many other things, is a means to a business or personal goal, the goal matters more than whatever SW you build for it</p>
     <p>- It's important? Prioritize. It's complex? Document. It's repeating? Automate. It's relevant for others? share. Can AI do it? Let it</p>
     <p>- AI can do your work if you teach it, but it's your work and so is the responsibility to lead, direct and validate the AI doing it</p>
