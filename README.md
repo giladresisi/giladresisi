@@ -57,6 +57,7 @@ About Me
     <p>- 👨‍🎓 I'm a quick & independent learner. I dive deep and reach quick results in unfamiliar topics</p>
     <p>- 👥 I'm a team player. I take collaboration, empathy & vibe as key for long-term success</p>
     <p>- 🤩 I'm passionate about SW, AI, problem solving, learning, customer satisfaction, challenges</p>
+    <p>- 📈 I love systems and I constantly make efforts to improve the systems I work with</p>
   </div>
 </details>
 
