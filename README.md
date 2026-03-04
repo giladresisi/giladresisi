@@ -18,7 +18,11 @@ Contact
 -->
 <h1 align="center">Hi 👋, I'm Gilad Resisi</h1>
 <h3 align="center">AI Fullstack Engineer and Builder from Israel (living in Thailand 😎)</h3>
-<p align="center"><a href="https://github.com/giladresisi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/giladresisi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center">
+  <a href="https://github.com/giladresisi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/giladresisi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
+  <a href="https://giladresisi.substack.com" target="_blank"><img alt="Substack" src="https://img.shields.io/badge/substack-FF6719?&style=for-the-badge&logo=substack&logoColor=white" /></a>
+</p>
 
 <br/>
 
