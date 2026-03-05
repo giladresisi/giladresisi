@@ -126,7 +126,7 @@ Featured Projects
     <b><span>Agentic RAG app for SW Incidents Responses - </span><a href=https://github.com/giladresisi/ir-copilot>Link</a><span> - RAGAS Faithfullness 0.950</span></b>
   </summary>
   <div>
-    <span>Built and </span><a href=https://frontend-eosin-six-81.vercel.app/>deployed</a><span> an agentic RAG system using TypeScript and FastAPI for retrieving info from SW incidents reports and recent deployments with streamed responses. It utilizes both local models (LMStudio) and cloud-based (OpenAI, OpenRouter) that use multiple tools - including web-search (tavily), text-to-sql, subagent delegation and of-course chunks retrieval with hybrid search (pgvector + keyword), metadata filtering and reranking (local / cohere). The system includes out-of-the-box observability (LangSmith) and evaluations (classic RAGAS, tool selection, chat quality) and reached 0.950 faithfullness in RAGAS score</span>
+    <span>Built and </span><a href=https://frontend-eosin-six-81.vercel.app/>deployed</a><span> an agentic RAG system using TypeScript and FastAPI for retrieving info from SW incidents reports and recent deployments with streamed responses. It utilizes both local models (LMStudio) and cloud-based (OpenAI, OpenRouter) that use multiple tools - including web-search (tavily), text-to-sql, subagent delegation and of-course chunks retrieval with hybrid search (pgvector + keyword), metadata filtering and reranking (local / cohere). The system includes baked-in CI (GitHub Actions) and out-of-the-box observability (LangSmith) and evaluations (classic RAGAS, tool selection, chat quality) and reached 0.950 faithfullness in RAGAS score</span>
   </div>
 </details>
 
