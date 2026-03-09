@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Contact
 -->
 <h1 align="center">Hi 👋, I'm Gilad Resisi</h1>
-<h3 align="center">AI Fullstack Engineer and Builder from Israel (living in Thailand 😎)</h3>
+<h3 align="center">Senior AI-First Fullstack Engineer and Builder from Israel</h3>
 <p align="center">
   <a href="https://github.com/giladresisi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/giladresisi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
@@ -70,7 +70,7 @@ About Me
     <b>🔭 What am I looking for?</b>
   </summary>
   <div>
-    <p>- A fulltime fully-remote role as an AI fullstack SW developer, integrating AI into the product and SDLC</p>
+    <p>- A fulltime fully-remote role (currently living in Thailand 😎) as an AI fullstack SW developer, integrating AI into the product and SDLC</p>
     <p>- Joining a strong team / organization that tackles real-world customer problems at scale with AI</p>
     <p>- Working with the best teammates who love learning, adapting, sharing, improving and winning together</p>
   </div>
