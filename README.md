@@ -30,7 +30,7 @@ Contact
 Highlights
 -->
 - ⚡ My experience: 16yrs of building production SW, both large-scale (as SDE @ AWS) and SaaS (as founder @ Payroll-AI)
-- ⚒️ I'm currently working on: An [agentic RAG](https://github.com/giladresisi/ir-copilot) app, enhancing my Claude Code [setup](https://github.com/giladresisi/ai-dev-env)
+- ⚒️ I'm currently working on: A demo of [organizational agents knowledgebase](https://github.com/giladresisi/org-agentic-kb) tool
 - 📖 I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK, etc.
 
 ---
