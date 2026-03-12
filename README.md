@@ -139,6 +139,15 @@ Featured Projects
   </div>
 </details>
 
+<details>
+  <summary>
+    <b><span><a href=https://github.com/giladresisi/org-agentic-kb>Organizational Agentic Knowledgebase</a> - agents learning from each other, no human involved</span></b>
+  </summary>
+  <div>
+    <span>A working POC of a shared organizational knowledge base that agents from different users can query from and contribute to in real time, without the human users being aware of this - making institutional knowledge ambient rather than requiring deliberate human curation.</span>
+  </div>
+</details>
+
 <!--
 ---
 -->
