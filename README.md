@@ -30,7 +30,7 @@ Contact
 Highlights
 -->
 - ⚡ My experience: 16yrs of building production SW, both large-scale (as SDE @ AWS) and SaaS (as founder @ Payroll-AI)
-- ⚒️ I'm currently working on: A [fork](https://github.com/giladresisi/autoresearch) of Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) that auto-optimizes trading strategies
+- ⚒️ I'm currently working on: A fork of Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) that auto-optimizes trading strategies
 - 📖 I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK, etc.
 
 ---
@@ -145,15 +145,6 @@ Featured Projects
   </summary>
   <div>
     <span>A working POC of a shared organizational knowledge base that agents from different users can query from and contribute to in real time, without the human users being aware of this - making institutional knowledge ambient rather than requiring deliberate human curation.</span>
-  </div>
-</details>
-
-<details>
-  <summary>
-    <b><span><a href=https://github.com/giladresisi/autoresearch>auto-co-trader</a> - an autonomous trading strategy optimizer and real-time signal generator</span></b>
-  </summary>
-  <div>
-    <span>Forked from Karpathy's autoresearch and adapted for quantitative trading. Instead of iterating on an LLM training loop, an AI agent here iterates on a stock screener and position management strategy — modifying train.py, running a walk-forward backtest, checking if the result improved, keeping or discarding, and repeating. You come back to a log of experiments and (hopefully) a better strategy. The same strategy then powers a real-time screener that produces entry signals and manages stops on open positions.</span>
   </div>
 </details>
 
