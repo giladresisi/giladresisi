@@ -30,8 +30,8 @@ Contact
 Highlights
 -->
 - ⚡ My experience: 16yrs of building production SW, both large-scale (as SDE @ AWS) and SaaS (as founder @ Payroll-AI)
-- ⚒️ I'm currently working on: A fork of Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) that auto-optimizes trading strategies
-- 📖 I'm currently learning: Building agentic apps using Pydantic AI, LangGraph, Claude Agent SDK, Vercel AI SDK, etc.
+- ⚒️ I'm currently working on: Scaling [Postiz](https://github.com/gitroomhq/postiz-app), the open-source social media scheduler (28+ channels), as a core engineer
+- 📖 I'm currently learning: Securing LLM agents against prompt injection — see [agent-approval-gate](https://github.com/giladresisi/agent-approval-gate), a deterministic approval gate with a measured 0/6 breach rate vs 3/6 unprotected
 
 ---
 
@@ -120,6 +120,15 @@ About Me
 Featured Projects
 -->
 <h3>Featured Projects</h3>
+
+<details>
+  <summary>
+    <b><span><a href=https://github.com/giladresisi/agent-approval-gate>Agent Approval Gate</a> - an LLM email agent that cannot be prompt-injected into sending unapproved email (0/6 breaches vs 3/6 unprotected)</span></b>
+  </summary>
+  <div>
+    <span>A working proof of concept that the model is not a security boundary. An email-sending agent (TypeScript, Node, Zod, node:crypto) is placed behind a deterministic proxy that validates, canonicalizes and hashes every tool call, classifies it into allow / hold / deny, and holds risky sends for out-of-band human approval bound to the exact arguments by HMAC (single-use, time-bounded). The model has no approval vocabulary at all: the field simply does not exist in its schema. Includes session taint tracking, fan-out rate limits, a hash-chained audit log with a verifier, and an eval harness over a prompt-injection corpus that reports attempt rate and breach rate separately, side by side with an unprotected baseline (3/6 breaches without the gate, 0/6 with it). Seven gate-integrity tests run in CI with no model and no API key; the demo replays recorded model output through the real enforcement path with zero configuration.</span>
+  </div>
+</details>
 
 <details>
   <summary>
